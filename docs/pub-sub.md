@@ -1,5 +1,8 @@
 # GCP Pub/Sub
 
+- Can handle duplicate messages
+- Messaging order is not guaranteed
+
 ![](pub-sub.png)
 
 We can have many different orders, dropping into message queue.
